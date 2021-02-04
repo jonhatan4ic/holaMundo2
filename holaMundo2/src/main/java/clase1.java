@@ -8,6 +8,11 @@
  *
  * @author Diurno
  */
+
+/**
+* Añadimos un comentario 
+@author Jonhatan Humanez 
+*/
 public class clase1 {
     
 }
