@@ -14,5 +14,6 @@
 @author Jonhatan Humanez 
 */
 public class clase1 {
-    
+    public int numero =0;
+    public int dato = 3; 
 }
